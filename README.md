@@ -11,3 +11,7 @@ dotnet run
 cd ../Client
 dotnet run
 ```
+
+## Thnx
+
+Thanks to @[yevhen](https://github.com/yevhen) for [fixes](https://github.com/Neftedollar/orleankkaFsharp-repro/pull/1)
